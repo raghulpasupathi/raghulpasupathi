@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raghulpasupathi
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on javascript and node based projects currently 
+- 💞️ I’m looking to collaborate on javascript and react based projects currently 
 - 📫 How to reach me @ raghulpasupathi@gmail.com
 
 <!---
